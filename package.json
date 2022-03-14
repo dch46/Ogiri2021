@@ -16,7 +16,7 @@
     "hexo-abbrlink": "2.2.1",
     "hexo-tag-friends": "0.3.4",
     "hexo-deployer-git": "2.1.0",
-    "hexo-generator-sitemap": "2.1.0",
+    "hexo-generator-sitemap": "3.0.1",
     "hexo-generator-archive": "1.0.0",
     "hexo-generator-category": "1.0.0",
     "hexo-generator-index": "2.0.0",
